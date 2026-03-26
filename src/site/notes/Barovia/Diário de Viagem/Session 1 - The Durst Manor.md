@@ -3,7 +3,7 @@
 ---
 
 
->[!Resumo]
+>[!NOTE] Resumo
 PCs são transportados por caravana de Vistani da Misty Forest para os nevoeiros de Barovia, onde encontram duas crianças à porta de uma casa, que lhes pedem ajuda. Os vistani desaparecem e eles exploram uma casa que esconde um passado sombrio.
 
 ![Carta de Strahd.jpg](/img/user/z.%20Handouts/Carta%20de%20Strahd.jpg)
