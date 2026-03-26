@@ -3,7 +3,7 @@
 ---
 
 
->[!Resumo]
+>[!Note] Resumo
 >1. Party está na igreja;  
 >2. Descobrem mais sobre o ataque ao Castelo;
 >3. Conhecem Bildrath e Periwinkle: ouvem sobre o papel de Ismark na morte de muitos Barovians e o porquê de lhe chamarem "o menor"; 
@@ -12,7 +12,7 @@
 >6. Ismark informa: um excerto do Van Richten's Guide to Vampires by Dr. Rudolph van Richten + relatórios de scouts que indicam números muito maiores de undead em redor da Vila que podiam ter destruído a Vila facilmente. 
 >7. Party consideira: Strahd estava a brincar / torturar? Haverá aqui algo mais?
 
-> [!Reflexos incontroláveis]
+> [!success] Reflexos Incontroláveis
 >  É meio dia, todos menos o Malus dão por si a comer outra dose de torta. Não conseguiram evitar nem sabe porquê, mas estão felizes.
 
 ## Info sobre revolta contra o Castelo
@@ -47,7 +47,7 @@ Ismark, ao procurar um mapa no escritório do pai, encontrou:
 - Um excerto do Van Richten's Guide to Vampires by Dr. Rudolph van Richten, que estava em cima da mesa do Pai e que ele sabe que foi arrancado de um livro de um estrangeiro que dormiu na mansão durante algumas semanas - Alanik Ray, que fez parte da incursão contra o castelo ao lado de Doru.
 
 
-> [!Guide to Vampires, by Dr. Rudolph van Richten]
+> [!quote] Guide to Vampires, by Dr. Rudolph van Richten
 > "Em alguns cantos sombrios do mundo, o Vampiro reina como um predador temível. Além da mera obsessão pelo sangue, estas criaturas estão amaldiçoadas com uma gama de habilidades e fraquezas que as tornam tão enigmáticas quanto terríveis.
 > 
 > Os seus corpos são resilientes a armas mundanas, ignorando golpes que derrubariam a maioria dos mortais e regenerando até ferimentos graves em questão de momentos. Movem-se com uma graciosidade sobrenatural e têm sentidos aguçados para os sussurros da noite. Mas é nas suas capacidades sobrenaturais que reside o seu verdadeiro horror. Podem manipular a vontade de outrem face à sua própria, enredando amigos e inimigos com apenas um olhar e um sussurro. Podem mudar de forma com a facilidade do pensamento, tornando-se morcegos, lobos ou até uma névoa sinistra que rasteja por baixo das portas e através de fendas. E aqueles que as suas presas matam tornam-se crias de Vampiro, criaturas vorazes com a fome de sangue de um vampiro.

@@ -13,7 +13,7 @@ PCs são transportados por caravana de Vistani da Misty Forest para os nevoeiros
 ![The Durst Family.png](/img/user/zz.%20images/The%20Durst%20Family.png)
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [! Treasure Death House]
+> [!important]- Durst Manor Treasure
 > - Três livros em branco com capas de marfim (25 gp cada).
 > - Um anel de ouro (25 gp).
 > - Cofre de Ferro 
@@ -28,7 +28,6 @@ PCs são transportados por caravana de Vistani da Misty Forest para os nevoeiros
 > 	- 25 gp, 120 sp, 200 cp.
 > 	- Quatro pedras preciosas: Ágata, Quartzo, Hematite e Crisoberilo (50 gp cada).
 > 	- Poções: 2 Potions of Healing.
-
 
 # Lore da Sessão
 

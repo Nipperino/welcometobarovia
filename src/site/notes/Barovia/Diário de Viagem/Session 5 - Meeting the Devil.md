@@ -4,7 +4,7 @@
 
 
 
->[!Resumo]
+>[!Note] Resumo
 >1. Ireena partilhou conteúdo do seu cofre.
 >2. Receberam pista de Doru e encontraram armas escondidas.
 >3. Falaram com scouts de Barovia que estavam à procura de família desaparecida.

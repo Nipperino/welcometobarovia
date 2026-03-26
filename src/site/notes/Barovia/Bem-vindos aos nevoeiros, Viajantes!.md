@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/barovia/bem-vindos-aos-nevoeiros-viajantes/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+# Bem-vindos aos nevoeiros, Viajantes!
+
 ![Barovia Landscape.jpg](/img/user/zz.%20images/Barovia%20Landscape.jpg)
 
 Entraram num reino onde o próprio tempo parece ter estagnado. Em Barovia, encontrarão uma prisão de sombras, um eco de glórias passadas e um teste à vossa fibra moral.

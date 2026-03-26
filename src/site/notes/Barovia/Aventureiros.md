@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/barovia/aventureiros/","dg-note-properties":{}}
 ---
 
-> ***"Garantam que morrem com dignidade; é mais do que se pode dizer da maioria."***
-> Strahd Von Zarovich
+
+> [!quote] Strahd Von Zarovich
+> Garantam que morrem com dignidade; é mais do que se pode dizer da maioria.
+
 
 ## The Grey
 
@@ -47,8 +49,8 @@ Agora, na flor da idade dos 20, decide que tem de deixar a mãe e irmã em Never
 
 ![Veilbert Malus.jpeg](/img/user/zz.%20images/PCs/Veilbert%20Malus.jpeg)
 
-> [!Error]
-> 404 Error Not Really Found!
+> [!error] 404 Error
+> Not Really Found!
 
 ## Dresmorlin H’kar
 
