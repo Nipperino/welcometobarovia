@@ -14,8 +14,6 @@
 >7. Ajudaram um corvo ferido e combateram uma Greater Strix. O corvo, recuperado (repararam que ele regenerou muito rápido depois de ajudado e repararam nas farpas de prata) seguiu-os a partir daí.
 >8. Terminaram a sessão a chegar ao acampamento de Tser Pool.
 
-# [[Act I - Into the Mists/Arc C - Into the Valley\|Arc C - Into the Valley]]
-
 ### Mensageiro
 
 
