@@ -12,7 +12,7 @@
 >6. Dirigem-se à igreja e conhecem Padre Donavich e situação de Doru, Vampire Spawn que sofre trancado na cave, desesperado e faminto; 
 >7. Funeral do Burgomaster; 
 
-> [!quote]
+> [!quote] Introdução
 > A morte rodeia-vos. Correm por aqueles corredores blasfemos, com os lamentos dos mortos a perseguirem-vos como cães raivosos, trovejando nesta penumbra sem fim até que finalmente — finalmente — se lançam para fora daquela mansão amaldiçoada e para dentro do nevoeiro.
 > 
 > Só agora compreendem a dimensão total deste horror — a depravação cometida naquelas profundezas noturnas.
