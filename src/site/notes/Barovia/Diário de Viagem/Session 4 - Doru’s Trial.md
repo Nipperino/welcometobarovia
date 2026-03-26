@@ -32,7 +32,7 @@ Nenhum dos revolucionários voltou vivo. “a Lata do puto de achar que se pode 
 
 ![Ismark the Great.png](/img/user/zz.%20images/Ismark%20the%20Great.png)
 <span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-If the players ask about the statue, Ismark can share the following information:
+
 
 ## Gertrudes
 
