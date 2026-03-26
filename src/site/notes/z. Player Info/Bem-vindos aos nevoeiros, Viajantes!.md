@@ -12,5 +12,4 @@ Este portal servirá como a vossa bússola nestas terras amaldiçoadas. Aqui, as
 
 > _"Podem consultar os vossos mapas e as vossas notas o quanto desejarem. No final, todos os caminhos levam a Ravenloft. Eu estarei à vossa espera."_ — **Strahd von Zarovich**
 
-
-![1.1 Gates of Barovia.webp](/img/user/zz.%20images/1.1%20Gates%20of%20Barovia.webp)
+![WtB Prophecy.png](/img/user/zz.%20images/WtB%20Prophecy.png)
