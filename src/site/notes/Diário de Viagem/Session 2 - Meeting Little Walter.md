@@ -6,4 +6,4 @@
 >[!info] Resumo
 >Party explorou a dungeon final, descobrem os segredos do culto da família Durst, encontram o bebé Walter, transformado num monstro e destroem-no depois do Hope ser engolido e ver o coração dentro do monstro.
 
-![Walter Flesh Mound.png](/img/user/Images/Walter%20Flesh%20Mound.png)
+![Walter Flesh Mound.png](/img/user/Images/Handouts/Durst%20Manor/Walter%20Flesh%20Mound.png)

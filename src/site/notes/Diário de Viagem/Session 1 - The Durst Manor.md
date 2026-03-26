@@ -6,11 +6,11 @@
 >[!NOTE] Resumo
 PCs são transportados por caravana de Vistani da Misty Forest para os nevoeiros de Barovia, onde encontram duas crianças à porta de uma casa, que lhes pedem ajuda. Os vistani desaparecem e eles exploram uma casa que esconde um passado sombrio.
 
-![Carta de Strahd.jpg](/img/user/Handouts/Carta%20de%20Strahd.jpg)
+![Carta de Strahd.jpg](/img/user/Images/Handouts/Durst%20Manor/Carta%20de%20Strahd.jpg)
 
-![Suicide Note.jpg](/img/user/Handouts/Suicide%20Note.jpg)
+![Suicide Note.jpg](/img/user/Images/Handouts/Durst%20Manor/Suicide%20Note.jpg)
 
-![The Durst Family.png](/img/user/Images/The%20Durst%20Family.png)
+![The Durst Family.png](/img/user/Images/Handouts/Durst%20Manor/The%20Durst%20Family.png)
 <span class="credit">"The Durst Family" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!important]- Durst Manor Treasure
@@ -75,4 +75,4 @@ O rapaz mais novo (Thorn) esconde o rosto atrás do braço da irmã, emitindo um
 
 Ela aponta para a porta principal da casa, que está entreaberta, convidando-vos a entrar na penumbra do hall. O silêncio da rua é absoluto, interrompido apenas pelo choro contido do rapaz, que parece implorar pela vossa coragem.
 
-![Rose and Thorn.png](/img/user/Images/Rose%20and%20Thorn.png)
+![Rose and Thorn.png](/img/user/Images/Handouts/Durst%20Manor/Rose%20and%20Thorn.png)
