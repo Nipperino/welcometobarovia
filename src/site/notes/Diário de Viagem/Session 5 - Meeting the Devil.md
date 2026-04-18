@@ -3,7 +3,6 @@
 ---
 
 
-
 >[!Note] Resumo
 >1. Ireena partilhou conteúdo do seu cofre.
 >2. Receberam pista de Doru e encontraram armas escondidas.
