@@ -50,6 +50,9 @@
 >
 > A sessão terminou com a dispensa do grupo e o aviso final de Madam Eva para que mantivessem absoluto silêncio sobre estas revelações perante qualquer servo do Conde.
 
+![Tarokka Reading.png](/img/user/Images/Handouts/Tarokka%20Reading.png)
+
+
 # Tser Pool
 
 > A estrada desaparece gradualmente, sendo substituída por um trilho de lama tortuoso entre as árvores. Sulcos profundos na terra são evidência das idas e vindas de carroças.
