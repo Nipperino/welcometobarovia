@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/diario-de-viagem/session-6-threads-of-fate/","dg-note-properties":{}}
 ---
 
-
 >[!Note] Resumo da Sessão
 > ### 1. O Acampamento Vistani
 > 
@@ -221,11 +220,11 @@ Com as suas mãos velhas a trabalharem habilmente, a antiga vidente retira cator
 
 Enquanto baralha, os aventureiros reparam numa bolsa de veludo no chão, ao lado dela, que não estava lá um momento antes. Madam Eva encontra os olhos deles e solta uma gargalhada baixa. — **"A tarefa que me pedis não é um favor pequeno"**, murmura ela. **"Em troca, eu pediria um benefício próprio."**
 
-Se os aventureiros aceitarem o pedido de Madam Eva ou perguntarem mais detalhes, ela informa-os de que a bolsa contém dez peças de ouro. — **"A minha sobrinha-bisneta, Arabelle, celebrará o seu décimo dia do nome daqui a dois dias"**, diz ela. **"Para esta ocasião momentosa, desejo dar-lhe um presente — mas, na minha idade avançada, sou incapaz de fazer a viagem eu mesma."**
+Se os aventureiros aceitarem o pedido de Madam Eva ou perguntarem mais detalhes, ela informa-os de que a bolsa contém dez peças de ouro. — **"A minha sobrinha-bisneta, Arabelle, celebrará o seu décimo aniversário daqui a dois dias"**, diz ela. **"Para esta ocasião momentosa, desejo dar-lhe um presente — mas, na minha idade avançada, sou incapaz de fazer a viagem eu mesma."**
 
-Madam Eva pede aos aventureiros que usem os fundos na bolsa para comprar um brinquedo para Arabelle na loja **Brinquedos Blinsky**, em Vallaki — os de Blinsky, observa ela com carinho, são os favoritos de Arabelle — e que entreguem o brinquedo no acampamento Vistani a sudoeste de Vallaki até ao dia do nome de Arabelle. Ela acrescenta que os aventureiros podem ficar com o troco como pagamento pelos seus esforços.
+Madam Eva pede aos aventureiros que usem os fundos na bolsa para comprar um brinquedo para Arabelle na loja **Brinquedos Blinsky**, em Vallaki — os de Blinsky, observa ela com carinho, são os favoritos de Arabelle — e que entreguem o brinquedo no acampamento Vistani a sudoeste de Vallaki até ao aniversário de Arabelle. Ela acrescenta que os aventureiros podem ficar com o troco como pagamento pelos seus esforços.
 
-Eva acrescenta, com um sorriso críptico, que os aventureiros poderão gostar de falar com Arabelle, pois ela é **"uma criança extremamente interessante"** — e que os aventureiros poderão descobrir que tornar-se amigos da família dela é um presente por si só. (Se os aventureiros perguntarem, Eva revela apenas que o pai de Arabelle, **Luvash**, é o líder do acampamento Vistani de Vallaki, e o seu irmão **Arrigal** é um **"homem percetivo e inteligente"**).
+Eva acrescenta, com um sorriso críptico, que os aventureiros poderão gostar de falar com Arabelle, pois ela é **"uma criança extremamente interessante"** — e que os aventureiros poderão descobrir que tornar-se amigos da família dela é um presente por si só. 
 
 "Madam Eva pousa ambos os baralhos na terra à sua frente. Fechando os olhos, coloca a mão direita sobre o baralho maior. As chamas carmesim diminuem e giram em padrões arcanos enquanto os seus lábios se movem silenciosamente; uma tensão distante espalha-se pelo ar. O som do sussurro das árvores começa a desaparecer e o mundo exterior torna-se mudo e insubstancial, enquanto o espaço aqui dentro se torna mais sólido — mais real.
 
