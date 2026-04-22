@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/inventario/lobisomem-dr-rudolph-van-richten/","dg-note-properties":{}}
 ---
 
-> [!lore] **Manuscrito obtido de Arturi**
+> [!info] **Manuscrito obtido de Arturi**
 
 ##### Um Estudo sobre a Maldição do Lobisomem
 *Dr. Rudolph Van Richten*
