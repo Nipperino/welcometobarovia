@@ -4,7 +4,8 @@
 
 > [!lore] **Manuscrito obtido de Arturi**
 
-### Um Estudo sobre a Maldição do Lobisomem, Dr. Rudolph Van Richten
+##### Um Estudo sobre a Maldição do Lobisomem
+*Dr. Rudolph Van Richten*
 
 Os lobisomens estão entre os mais temíveis licantropos, carregando uma maldição tão antiga quanto aterradora. Para eles, a aflição da licantropia transforma até o indivíduo mais civilizado numa besta monstruosa, deturpando as fronteiras entre o homem e a natureza.
 
