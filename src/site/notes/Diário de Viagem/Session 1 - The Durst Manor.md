@@ -24,7 +24,7 @@ PCs são transportados por caravana de Vistani da Misty Forest para os nevoeiros
 > - Globo de Cristal
 > - Uma escova de cabelo com cerdas de prata (25 gp).
 > - Um conjunto de seda bordada (50 gp).
-> - Se os jogadores derrotarem o monstro final (Flesh Mound/Shambling Mound) e revistarem os detritos:
+> - Se os aventureiros derrotarem o monstro final (Flesh Mound/Shambling Mound) e revistarem os detritos:
 > 	- 25 gp, 120 sp, 200 cp.
 > 	- Quatro pedras preciosas: Ágata, Quartzo, Hematite e Crisoberilo (50 gp cada).
 > 	- Poções: 2 Potions of Healing.

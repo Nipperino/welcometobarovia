@@ -107,7 +107,7 @@ O rosto, embora pálido e inchado pela corda, é inconfundível: Grey, estás a 
 ![Swarm of Lesser Strix.png](/img/user/Images/Swarm%20of%20Lesser%20Strix.png)
 
 
-A meio do caminho entre a Encruzilhada do Rio Ivlis e o Acampamento do Lago Tser, os jogadores ouvem o som de uma ave em agonia grasnando vindo de cima. Um corvo com as pontas das asas azuladas — reconhecível como o mesmo corvo que haviam visto à chegada da Vila de Barovia — cai na estrada aos pés dos jogadores, visivelmente ferido. As suas asas e o torso foram penetrados por dezenas de farpas de prata, deixando-a incapaz de voar.
+A meio do caminho entre a Encruzilhada do Rio Ivlis e o Acampamento do Lago Tser, os aventureiros ouvem o som de uma ave em agonia grasnando vindo de cima. Um corvo com as pontas das asas azuladas — reconhecível como o mesmo corvo que haviam visto à chegada da Vila de Barovia — cai na estrada aos pés dos aventureiros, visivelmente ferido. As suas asas e o torso foram penetrados por dezenas de farpas de prata, deixando-a incapaz de voar.
 
 A chegada do corvo é seguida pouco depois por um grito terrível e estridente e pela chegada de uma Greater Strix: uma grande "ave" artificial feita de madeira, peles de animais, serapilheira e centenas de penas pretas de corvo. Vem acompanhada de um grupo de corvos mecânicos menores.
 
