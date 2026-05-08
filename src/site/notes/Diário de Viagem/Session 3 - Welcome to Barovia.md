@@ -3,7 +3,7 @@
 ---
 
 
->[!Note] Resumo
+>[!info] Resumo
 >1. Party chega à Vila de Barovia; 
 >2. Encontra Morgantha: recebem uma pie e todos provam, exceto Malus; 
 >3. Falam com as donas da taberna e o taberneiro; 

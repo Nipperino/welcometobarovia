@@ -3,7 +3,7 @@
 ---
 
 
->[!Note] Resumo
+>[!info] Resumo
 >1. Party está na igreja;  
 >2. Descobrem mais sobre o ataque ao Castelo;
 >3. Conhecem Bildrath e Periwinkle: ouvem sobre o papel de Ismark na morte de muitos Barovians e o porquê de lhe chamarem "o menor"; 

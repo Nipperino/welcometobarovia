@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/diario-de-viagem/session-6-threads-of-fate/","dg-note-properties":{}}
 ---
 
->[!Note] Resumo da Sessão
+>[!Info] Resumo da Sessão
 > ### 1. O Acampamento Vistani
 > 
 > A estrada para a Vila de Barovia deu lugar a um trilho tortuoso que conduziu os aventureiros até às Cataratas de Tser. No local, encontraram um acampamento composto por tendas coloridas e carroças organizadas em redor de uma fogueira central. Foram recebidos por Stanimir Naiat, um ancião que os informou que a líder do acampamento, Madam Eva, já previa a chegada do grupo e os aguardava.
